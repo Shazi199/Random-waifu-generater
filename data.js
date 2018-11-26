@@ -92,7 +92,7 @@ Cupsize_data = [
     "D","D","D",
     "E","E",
     "F",
-    "G"
+    "G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G","G"
 ];
 
 Skin_data = [
